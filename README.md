@@ -1,1 +1,3 @@
-# curriculum_web
+# Desafio Curriculo Web
+
+Este projeto visava a criação de um currículo web com o intuito de desenvolver a base da programação web
